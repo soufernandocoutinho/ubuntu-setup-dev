@@ -60,12 +60,12 @@ Após a instalação, você pode rodar o **script de verificação** para garant
 
 ### Como usar
 
-1. Dê permissão de execução:
+- Dê permissão de execução:
    ```bash
    chmod +x check-env.sh
    ```
 
-2. Execute:
+- Execute:
    ```bash
    ./check-env.sh
    ```
