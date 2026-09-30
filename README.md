@@ -106,4 +106,3 @@ Se algum programa não aparecer, significa que precisa ser reinstalado.
 
 👨‍💻 Desenvolvido para a comunidade de entusiastas em programação.  
 Contribuições são bem-vindas!
-```
