@@ -106,4 +106,3 @@ sudo usermod -aG docker $USER
 
 👨‍💻 Este guia avançado ajuda a personalizar e resolver problemas comuns após a instalação.  
 Use junto com o `README.md` principal para ter um ambiente completo e ajustado às suas necessidades.
-```
