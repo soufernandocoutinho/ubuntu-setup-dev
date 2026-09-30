@@ -1,3 +1,7 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-26.04-orange)
+![Status](https://img.shields.io/badge/Setup-Automated-success)
+
 # ⚙️ Instruções Avançadas – Ubuntu Setup Interativo
 
 Este documento complementa o `README.md` principal com instruções avançadas para personalização e ajustes do ambiente.

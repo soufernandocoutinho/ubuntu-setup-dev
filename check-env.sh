@@ -1,4 +1,8 @@
 #!/usr/bin/env bash
+# Ubuntu Setup Interativo
+# Autor: Fernando Coutinho
+# Licença: MIT (veja LICENSE)
+# Descrição: Script para instalar e configurar ambiente de desenvolvimento no Ubuntu 26.04
 set -euo pipefail
 
 echo "🔎 Iniciando verificação do ambiente..."

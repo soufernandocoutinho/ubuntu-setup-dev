@@ -1,3 +1,7 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-26.04-orange)
+![Status](https://img.shields.io/badge/Setup-Automated-success)
+
 # 🚀 Ubuntu Setup Interativo
 
 Este projeto disponibiliza um **script automatizado e interativo** para configurar um ambiente de desenvolvimento e produção no **Ubuntu 26.04**.  
