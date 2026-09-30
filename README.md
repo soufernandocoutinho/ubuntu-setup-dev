@@ -30,7 +30,7 @@ O menu interativo permite instalar:
 Clone este repositório e execute o script:
 
 ```bash
-git clone https://github.com/seuusuario/ubuntu-setup-dev.git
+git clone https://github.com/soufernandocoutinho/ubuntu-setup-dev
 cd ubuntu-setup-dev
 chmod +x setup.sh
 ./setup.sh
